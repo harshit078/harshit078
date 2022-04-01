@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/ughpalak?logo=twitter&style=for-the-badge" alt="ughpalak" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh?logo=twitter&style=for-the-badge" alt="harshit78" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack Web dev**
 
@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak296&show_icons=true&locale=en&layout=compact" alt="harsh078" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh078&show_icons=true&locale=en?" alt="harsh078" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit078)](https://github.com/harshit078/github-readme-stats)" alt="harsh078" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak296&" alt="harsh078" /></p>
