@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak296&show_icons=true&locale=en&layout=compact" alt="harsh078" /></p>
 
-<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/apiharshit078)" alt="harsh078" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/harshit078/github-readme-stats" alt="harsh078" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak296&" alt="harsh078" /></p>
