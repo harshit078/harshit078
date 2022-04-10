@@ -64,10 +64,6 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit078&theme=tokyonight"  display=block width=100% height=auto alt="3" >
-    
-     <td><img src="https://activity-graph.herokuapp.com/graph?username=Apurva-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
-     </td>
-  </td>
      </td>
   </tr>
 </table>
