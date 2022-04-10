@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshit Singh  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">An IT Sophomore and an aspiring Web Developer</h3>
+<h3 align="center">I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
 
@@ -15,6 +15,12 @@
 
 -  I’m looking to collaborate on Websites and Ios
 
+- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
+
+- 👯 I’m looking to collaborate on exciting Projects and Hackathons
+
+- 😄 Pronouns: She/Her
+
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 
 <p align="left">
@@ -28,6 +34,13 @@
 <a href="https://www.leetcode.com/Harsh778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harsh778" height="30" width="40" /></a>
   
 </p>
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{harshit078}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{harshit078}/count.svg)  
+  
+</a>
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
 <p align="left">
