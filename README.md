@@ -21,6 +21,7 @@
 
 - 😄 Pronouns: She/Her
 
+
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 
 <p align="left">
@@ -59,3 +60,17 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak296&" alt="harsh078" /></p>
+
+# Github Activity📊:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=harshit078&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit078&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit078&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+</table>
