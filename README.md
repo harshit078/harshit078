@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 
 
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
