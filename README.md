@@ -45,6 +45,17 @@
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&cover_image=true&theme=default&bar_color=ff2600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&redirect=true)
+
+📅 **I'm Most Productive on Monday** 
+
+text
+Monday           █████░░░░░░░░░░░░░░░░░░░░   29.72% 
+Tuesday          ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Wednesday        █████░░░░░░░░░░░░░░░░░░░░   19.72% 
+Thursday         ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Friday           ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Saturday         █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
+Sunday           █░░░░░░░░░░░░░░░░░░░░░░░░   7.08%
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
   
