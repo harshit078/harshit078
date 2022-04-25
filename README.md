@@ -21,6 +21,7 @@
 
 - 😄 Pronouns: He/Him
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 
@@ -45,7 +46,9 @@
 
 <p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&cover_image=true&theme=default&bar_color=ff2600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&redirect=true)
-
+  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+  
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
 <p align="left">
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -57,16 +60,8 @@
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  
-  - uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ harshit078 }}
-
-    
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
   
   
 # Github Activity📊:
@@ -81,3 +76,4 @@
      </td>
   </tr>
 </table>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
