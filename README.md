@@ -43,6 +43,8 @@
   
 </a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&cover_image=true&theme=default&bar_color=ff2600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&redirect=true)
+
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
 <p align="left">
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
