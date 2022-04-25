@@ -47,17 +47,17 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&cover_image=true&theme=default&bar_color=ff2600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&redirect=true)
 
 <p align="center">
-  <img alig src="https://github-harshit078.vercel.app/?username=harshit078&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://harshit078-harshit078.vercel.app/?username=harshit078&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="center">
-  <a href="https://harshit078.vercel.app/api/view?uid=11147618695&redirect=true">
+  <a href="https://harshit078-harshit078.vercel.app/api/view?uid=11147618695&redirect=true">
     <img src="https://spotify-harshit078.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://harshit078.vercel.app/api/top-played">
+  <img src="https://harshit078-harshit078.vercel.app/api/top-played">
 </p>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
