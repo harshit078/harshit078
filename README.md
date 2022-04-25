@@ -46,9 +46,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&cover_image=true&theme=default&bar_color=ff2600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467&redirect=true)
 
-
 <p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=harshitsingh467/top-played">
 </p>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
