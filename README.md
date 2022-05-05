@@ -83,5 +83,11 @@
      </td>
   </tr>
 </table>
-https://camo.githubusercontent.com/c68f7a4adcb1f83eac91f2218dc94d1e49373891debe0c2568b383446a72da34/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d526f626f746f2b536c616226636f6c6f723d2532333745334143452673697a653d32342663656e7465723d74727565267643656e7465723d747275652677696474683d333030266c696e65733d5468616e6b732b666f722b796f75722b766973697421
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
