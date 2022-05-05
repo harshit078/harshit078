@@ -76,8 +76,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit078&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
   
- [![trophy](https://github-profile-trophy.vercel.app/harshit078=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit078&theme=tokyonight"  display=block width=100% height=auto alt="3" >
      </td>
