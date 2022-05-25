@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Harshit45368364" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh?logo=twitter&style=for-the-badge" alt="harshit78" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Web dev**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **DSA**
 
