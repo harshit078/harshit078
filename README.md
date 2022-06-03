@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshit Singh </h1> <h1>
+<h1 align="center">Hi, I'm Harshit Singh  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
@@ -53,7 +53,7 @@
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
   
-<h3 align="left"> Languages and Tools:  </h3>
+<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:  </h3>
 <p align="left">
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="80"/> </a>
   
