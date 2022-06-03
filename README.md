@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshit Singh  <h1>
+<h1 align="center">Hi, I'm Harshit Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="60"></h1> <h1>
 <h3 align="center">I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
@@ -55,7 +55,7 @@
   
 <h3 align="left"> Languages and Tools:  </h3>
 <p align="left">
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> </a>
   
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
