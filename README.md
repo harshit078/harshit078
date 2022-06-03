@@ -23,7 +23,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif"  width="40" height="40" /> Connect with me: </p></h3>
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
 
 <p align="left">
   
