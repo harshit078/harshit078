@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/a9fd79b1391ff77fccecb124c5430eb1.gif">
 
-<p align="left"> <a href="https://twitter.com/Harshit45368364" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh?logo=twitter&style=for-the-badge" alt="Harshit45368364" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SinghHarshit46" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh?logo=twitter&style=for-the-badge" alt="SinghHarshit46" /></a> </p>
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
