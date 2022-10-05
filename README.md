@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA and web dev**
 
 - 📫 How to reach me **harshitsingh467@gmail.com**
 
