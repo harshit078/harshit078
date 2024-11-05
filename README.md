@@ -67,6 +67,9 @@
 # Github Activity📊:
 
 <table>
+
+
+<img width="944" alt="Screenshot 2024-11-05 at 3 27 54 PM" src="https://github.com/user-attachments/assets/e116a6ac-7f5d-4013-b4b7-3eba14b4c479">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=harshit078&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit078&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
