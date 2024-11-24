@@ -1,30 +1,19 @@
 [![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://jainsparsh5.io)
 <h1 align="center">Hi, I'm Harshit Singh 🙋🏻‍♂️</h1>
-<h3 align="center">Full Stack Developer, loves to code and build projects. </h3>
+<h3 align="center">Full Stack Developer </h3>
 
 
-<p align="left"> <a href="https://twitter.com/SinghHarshit46" target="blank"><img src="https://img.shields.io/twitter/follow/harshitsingh?logo=twitter&style=for-the-badge" alt="SinghHarshit46" /></a> </p>
+With expertise in React, TypeScript, and modern web development architectures. My work revolves around creating performant, scalable, and user-centric applications, leveraging frameworks and technologies like Next.js, TailwindCSS, and Sentry for error monitoring.
 
-- 🌱 I’m currently building in  **Web3**
- - 💬 Ask me about **Full Stack Web Development 👻, Web3 and blockchain 🦄**
+Recently, I contributed extensively to Twenty (YC23), an open-source CRM, where I tackled around 50 issues and implemented nearly 40 PRs. I also integrated responsive design patterns and developed solutions for dynamic state handling and advanced dropdown interactions.
 
-- 📫 How to reach me *harshitsingh467@gmail.com*
-- 😄 Pronouns: He/Him
+At Fyle, I led the Sentry monitoring project, introducing strictNullChecks to the codebase and automating bug tracking workflows, significantly reducing reported issues. My work involved deep debugging of frontend performance bottlenecks, refactoring legacy code, and leveraging JavaScript and TypeScript to enforce type safety and maintainability.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+During my time at Eder Labs, I designed scalable systems using TypeScript and Vue Composition API. I implemented Dockerized environments to streamline development, cutting setup times by 50%, and built a custom chatbot using Node.js and Express, boosting user engagement metrics.
 
-<h3 align="left">Connect with me: </p></h3>
+Outside of professional roles, I enjoy building and sharing reusable components and tools. Projects like EmailGPT, a chatbot powered by Mixtral-8x7B-Instruct and TogetherAI, reflect my interest in merging AI and frontend automation.
 
-<p align="left">
-  
-<a href="https://twitter.com/SinghHarshit46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SinghHarshit46" height="30" width="40" /> Twitter</a>
-  
-<a href="https://linkedin.com/in/harshit-singh-353649131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh-353649131" height="30" width="40" /> Linkedin</a>
-  
-  
-<a href="https://www.leetcode.com/Harsh778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harsh778" height="30" width="40" /> Leetcode</a>
-  
-</p>
+My work is rooted in leveraging modern tooling, frameworks, and workflows to deliver clean, scalable, and user-focused applications. Feel free to explore my repositories!
 
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{harshit078}/count.svg">
