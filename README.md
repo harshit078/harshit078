@@ -65,10 +65,8 @@ My work is rooted in leveraging modern tooling, frameworks, and workflows to del
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit078&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
   
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit078&theme=tokyonight"  display=block width=100% height=auto alt="3" >
-     </td>
-  </tr>
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit078&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/harshit078/github-readme-activity-graph)
+
 </table>
 
 <div align="center">
