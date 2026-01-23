@@ -5,7 +5,7 @@
 
 With expertise in React, TypeScript, and modern web development architectures. My work revolves around creating performant, scalable, and user-centric applications, leveraging frameworks and technologies like Next.js, TailwindCSS, and Sentry for error monitoring.
 
-Recently, I contributed extensively to Twenty (YC23), an open-source CRM, where I tackled around 50 issues and implemented nearly 40 PRs. I also integrated responsive design patterns and developed solutions for dynamic state handling and advanced dropdown interactions.
+Recently, I contributed extensively to Twenty (YC23) , an open-source CRM, where I tackled around 50 issues and implemented nearly 40 PRs. I also integrated responsive design patterns and developed solutions for dynamic state handling and advanced dropdown interactions.
 
 At Fyle, I led the Sentry monitoring project, introducing strictNullChecks to the codebase and automating bug tracking workflows, significantly reducing reported issues. My work involved deep debugging of frontend performance bottlenecks, refactoring legacy code, and leveraging JavaScript and TypeScript to enforce type safety and maintainability.
 
@@ -15,13 +15,6 @@ Outside of professional roles, I enjoy building and sharing reusable components 
 
 My work is rooted in leveraging modern tooling, frameworks, and workflows to deliver clean, scalable, and user-focused applications. Feel free to explore my repositories!
 
-<h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{harshit078}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{harshit078}/count.svg)  
-  
-</a>
- 
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
   
@@ -57,8 +50,8 @@ My work is rooted in leveraging modern tooling, frameworks, and workflows to del
 
 <table>
 
+<img width="2560" height="1080" alt="Screenshot 2026-01-23 at 6 41 22 PM" src="https://github.com/user-attachments/assets/8dd32f6a-a4ab-48bf-adec-75bd9fb32c21" />
 
-<img width="1486" alt="Screenshot 2024-11-10 at 7 08 13 PM" src="https://github.com/user-attachments/assets/6fb13456-2b5a-4e7e-96af-62010b348ffc">
 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=harshit078&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
