@@ -7,12 +7,6 @@ With expertise in React, TypeScript, and modern web development architectures. M
 
 Recently, I contributed extensively to Twenty (YC23) , an open-source CRM, where I tackled around 50 issues and implemented nearly 40 PRs. I also integrated responsive design patterns and developed solutions for dynamic state handling and advanced dropdown interactions.
 
-At Fyle, I led the Sentry monitoring project, introducing strictNullChecks to the codebase and automating bug tracking workflows, significantly reducing reported issues. My work involved deep debugging of frontend performance bottlenecks, refactoring legacy code, and leveraging JavaScript and TypeScript to enforce type safety and maintainability.
-
-During my time at Eder Labs, I designed scalable systems using TypeScript and Vue Composition API. I implemented Dockerized environments to streamline development, cutting setup times by 50%, and built a custom chatbot using Node.js and Express, boosting user engagement metrics.
-
-Outside of professional roles, I enjoy building and sharing reusable components and tools. Projects like EmailGPT, a chatbot powered by Mixtral-8x7B-Instruct and TogetherAI, reflect my interest in merging AI and frontend automation.
-
 My work is rooted in leveraging modern tooling, frameworks, and workflows to deliver clean, scalable, and user-focused applications. Feel free to explore my repositories!
 
   
@@ -45,19 +39,30 @@ My work is rooted in leveraging modern tooling, frameworks, and workflows to del
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
   
-  
-# Github Activity📊:
+
+## 📊 Open Source Contributions
+
+A curated list of OSS organisations Contributions I have done over the span of 1 year -
+
+- [Twenty YC(23)](https://github.com/twentyhq/twenty/pulls?q=is%3Apr+author%3Aharshit078+is%3Aclosed)
+- [SentryJS](https://github.com/getsentry/sentry-javascript/pulls?q=is%3Apr+author%3Aharshit078+is%3Aclosed)
+- [PotPie](https://github.com/potpie-ai/potpie/pulls?q=is%3Apr+author%3Aharshit078+is%3Aclosed)
+- [MiddlewareHQ](https://github.com/middlewarehq/middleware/pulls/harshit078)
+- [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse/pulls/harshit078)
+
+### Contribution Areas
+
+- Frontend and UI Engineering
+- Bug fixes and feature implementation
+- API and SDK improvements
+
 
 <table>
 
 <img width="2560" height="1080" alt="Screenshot 2026-01-23 at 6 41 22 PM" src="https://github.com/user-attachments/assets/8dd32f6a-a4ab-48bf-adec-75bd9fb32c21" />
 
 
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=harshit078&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit078&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-  
+
 [![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit078&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/harshit078/github-readme-activity-graph)
 
 </table>
