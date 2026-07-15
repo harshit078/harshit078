@@ -22,6 +22,7 @@ A curated list of OSS organisations Contributions I have done over the span of 1
 - [PotPie](https://github.com/potpie-ai/potpie/pulls?q=is%3Apr+author%3Aharshit078+is%3Aclosed)
 - [MiddlewareHQ](https://github.com/middlewarehq/middleware/pulls/harshit078)
 - [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse/pulls/harshit078)
+- [RedoCly](https://github.com/Redocly/redocly-cli/pulls/harshit078)
 
 ### Contribution Areas
 
