@@ -3,9 +3,30 @@
 <h3 align="center">Full Stack Developer </h3>
 
 
-With expertise in React, TypeScript, and modern web development architectures. My work revolves around creating performant, scalable, and user-centric applications, leveraging frameworks and technologies like Next.js, TailwindCSS, and Sentry for error monitoring.
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-Recently, I contributed extensively to Twenty (YC23) , an open-source CRM, where I tackled around 50 issues and implemented nearly 40 PRs. I also integrated responsive design patterns and developed solutions for dynamic state handling and advanced dropdown interactions.
+
+Writing Simpel, clean, maintainable code is always my priority and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
 
 My work is rooted in leveraging modern tooling, frameworks, and workflows to deliver clean, scalable, and user-focused applications. Feel free to explore my repositories!
 
@@ -30,6 +51,22 @@ A curated list of OSS organisations Contributions I have done over the span of 1
 - Bug fixes and feature implementation
 - API and SDK improvements
 
+- ## What I'm Doing
+  
+- **Contributing to open source** - Giving back to the community
+- **Building full-stack apps** - From frontend to backend, databases to deployment
+- **Building Chrome extensions** - Little tools that fix everyday browsing annoyances
+- **Learning in public** - Sharing projects and experiments on GitHub, LinkedIn, and X
+
+### Recognition
+
+- Top #1 Contributor at Twenty(YC23)
+- Contributor at Potpie, Cal.com, Middleware, CircuitVerse, RedoCLY, Posthog, Sentry-JS
+- Got selected into HackMIT 2021 out of 2000 students internationally
+- Got selected into HackHarvard (2022), CalHacks, HackGT, HackYale, and HackPrinceton for 2021.
+- Secured a team rank of 18th out of 78 teams in HackDTU
+- Got the award for Best use of AuthO in YaleHacks 2021
+- Leetcode: 3/5 Stars, Solved 350+ Questions
 
 <table>
 
