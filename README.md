@@ -36,6 +36,19 @@ My work is rooted in leveraging modern tooling, frameworks, and workflows to del
 
 ## 📊 Open Source Contributions
 
+Some of my best work and most exciting features I have gotten a chance to work at - 
+
+<ul>
+  <li>🔥 <strong><a href="https://github.com/twentyhq/twenty/pull/14360">feat: Added workspace-level impersonation module and functionality</a></strong></li>
+    <li>🧠 <strong><a href="https://github.com/twentyhq/twenty/pull/14654">feat: add-create-update-record in workflow</a></strong></li>
+    <li>☸️ <strong><a href="https://github.com/twentyhq/twenty/pull/14340">fix: Server-level impersonation doesn't bypass 2FA when enabled</a></strong></li>
+    <li>🔶 <strong><a href="https://github.com/twentyhq/twenty/pull/15044">feat: Attachement for Send Email workflow node</a></strong></li>
+      <li>🧑🏻‍💻 <strong><a href="https://github.com/Redocly/redocly-cli/pull/2759">feat(core): add asyncapi security-defined lint rule</a></strong></li>
+      <li>🖥️ <strong><a href="https://github.com/Redocly/redocly-cli/pull/2796">fix: pass workflow inputs to success and failure actions</a></strong></li>
+      <li>🛠️ <strong><a href="https://github.com/getsentry/sentry-javascript/pull/18812"> feat(wasm): initialised sentryWasmImages for webworkers</a></strong></li>
+  </li>
+</ul>
+
 A curated list of OSS organisations Contributions I have done over the span of 1 year -
 
 - [Twenty YC(23)](https://github.com/twentyhq/twenty/pulls?q=is%3Apr+author%3Aharshit078+is%3Aclosed)
